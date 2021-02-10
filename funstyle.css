@@ -1,0 +1,16 @@
+.fun {
+    color: darkolivegreen; 
+    background-color:
+     black; font-size: 100px;
+}
+.notfun{
+    color: blue; 
+    background-color: burlywood; 
+    font-size: 50px;
+}
+#uniqueElement1 {
+    color:cornflowerblue;
+    background-color: black;
+    font-size:200px;
+    border: red solid 10px;
+}
